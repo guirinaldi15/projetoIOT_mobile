@@ -1,0 +1,20 @@
+export const colors = {
+  background: '#0B0B14',
+  sidebar: '#11101E',
+  panel: '#171527',
+  panelAlt: '#201C32',
+  panelHover: '#29233E',
+  line: '#302B43',
+  text: '#F5F2FF',
+  muted: '#AAA5BD',
+  faint: '#716B86',
+  purple: '#A78BFA',
+  purpleDark: '#7146DD',
+  blue: '#60A5FA',
+  green: '#34D399',
+  greenBg: '#143C32',
+  red: '#FCA5A5',
+  redBg: '#442630',
+  amber: '#FBBF24',
+};
+export const radii = { sm: 10, md: 16, lg: 22, xl: 28 };
